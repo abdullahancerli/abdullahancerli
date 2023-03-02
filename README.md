@@ -11,17 +11,28 @@
 <div id="social-media-badges" align="center">
   <a href="www.linkedin.com/in/abdullahancerli">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkein">
-    
+  </a>
+  
   <a href="https://twitter.com/Abdullahancerli">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"    alt="Twitter">  
+  </a>
     
-    <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=abdullahancerli&style=for-the-badge&color=red" alt="Profile View Counter">
-    </a>
+  <a href="#">
+  <img src="https://komarev.com/ghpvc/?username=abdullahancerli&style=for-the-badge&color=red" alt="Profile View Counter">
+  </a>
 </div>
+<br> <br>
 
-
-
+## 💻 Favorite Programming Languages
+<p>
+  <a href="#"> <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <a href="#"> <img src="https://img.shields.io/badge/CSS-239120?&style=fflat-square&logo=css3&logoColor=white" alt="CSS">
+  <a href="#"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javaScript">
+  <a href="#"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white " alt="Python">
+  <a href="#"> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white " alt="c#">
+  
+</p>
+  
 
 
 
